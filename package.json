@@ -51,7 +51,7 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-toggle-display": "^2.2.0",
-    "tslint": "^5.11.0",
+    "tslint": "^5.16.0",
     "typestyle": "^2.0.1"
   },
   "devDependencies": {
